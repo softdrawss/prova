@@ -1,5 +1,5 @@
 # Project Name
-TODO: Write a project description
+TODO: oppa gamnam style
 ## Installation
 TODO: Describe the installation process
 ## Usage
