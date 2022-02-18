@@ -5,7 +5,7 @@ TODO: Describe the installation process
 ## Usagi conejo
 TODO: Write usage instructions
 ## Contingencia
-1. Fork it!
+1. Tenedor it!
 2. Create your feature branch; 'git checkout-b-my-newfeature'
 3. Commit your changes: 'git commit - am 'Add dome feature''
 4. Push to the branch: 'git push origin my-newfeature'
